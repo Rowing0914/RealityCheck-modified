@@ -1,5 +1,6 @@
 # 📦 RealityCheck Usage Guide
 Original: https://sites.google.com/view/arrealitycheck/home
+** Get the images in TestVideo from above.
 
 ---
 
